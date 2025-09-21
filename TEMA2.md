@@ -306,7 +306,6 @@ y = 3
 
 print(x**y)
 
-
 <p align="center">
   <img src="images/с2.9.png" width="600">
 </p>
