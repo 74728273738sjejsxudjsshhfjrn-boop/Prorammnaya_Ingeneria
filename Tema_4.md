@@ -52,7 +52,7 @@ if __name__ == '__main__':
 
 
 <p align="center">
-  <img src="images/2" width="600">
+  <img src="images/2.png" width="600">
   <br>
   </p>
 
@@ -72,7 +72,7 @@ for i in range(5):
 
 
 <p align="center">
-  <img src="images/3" width="600">
+  <img src="images/3.png" width="600">
   <br>
   
 </p>
@@ -95,7 +95,7 @@ if __name__ == "__main__":
 
 
 <p align="center">
-  <img src="images/4" width="600">
+  <img src="images/4.png" width="600">
   <br>
   
 </p>
@@ -120,7 +120,7 @@ if __name__ == "__main__":
 
 
 <p align="center">
-  <img src="images/5" width="600">
+  <img src="images/5.png" width="600">
   <br>
   </p>
 
@@ -140,7 +140,7 @@ if __name__ == "__main__":
 
 
 <p align="center">
-  <img src="images/6" width="600">
+  <img src="images/6.png" width="600">
   <br>
   
 </p>
@@ -159,13 +159,13 @@ if __name__ == "__main__":
 
 
 <p align="center">
-  <img src="images/7" width="600">
+  <img src="images/7.png" width="600">
   <br>
-  <em>Рис. 7: Импорт функции из внешнего файла</em>
+	
 </p>
 
 <p align="center">
-  <img src="images/7(2)" width="600">
+  <img src="images/7(2).png" width="600">
   <br>
   
 </p>
@@ -186,7 +186,7 @@ if __name__ == "__main__":
 
 
 <p align="center">
-  <img src="images/8" width="600">
+  <img src="images/8.png" width="600">
   <br>
   
 </p>
@@ -220,7 +220,7 @@ if __name__ == "__main__":
 
 
 <p align="center">
-  <img src="images/9" width="600">
+  <img src="images/9.png" width="600">
   <br>
   
 </p>
@@ -249,7 +249,7 @@ print(f"Площадь: {result}")
 
 
 <p align="center">
-  <img src="images/10" width="600">
+  <img src="images/10.png" width="600">
   <br>
   
 </p>
@@ -286,7 +286,7 @@ if __name__ == '__main__':  # Проверка, является ли текущ
 
 
 <p align="center">
-  <img src="images/11" width="600">
+  <img src="images/11.png" width="600">
   <br>
   </p>
 
@@ -311,7 +311,7 @@ if __name__ == "__main__":
 
 
 <p align="center">
-  <img src="images/12" width="600">
+  <img src="images/12.png" width="600">
   <br>
   
 </p>
@@ -335,7 +335,7 @@ if __name__== "__main__":
 
 
 <p align="center">
-  <img src="images/13" width="600">
+  <img src="images/13.png" width="600">
   <br>
   
 
@@ -354,7 +354,7 @@ print(main(3,7,1))
 
 
 <p align="center">
-  <img src="images/14" width="600">
+  <img src="images/14.png" width="600">
   <br>
   
 </p>
@@ -386,7 +386,7 @@ def heron_formula(a,b,c):
 
 
 <p align="center">
-  <img src="images/15" width="600">
+  <img src="images/15.png" width="600">
   <br>
   
 </p>
