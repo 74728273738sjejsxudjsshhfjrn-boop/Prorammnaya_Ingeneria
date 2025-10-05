@@ -36,7 +36,7 @@ if __name__ == '__main__':
 
 
 <p align="center">
-  <img src="images/1" width="600">
+  <img src="images/1.png" width="600">
   <br>
 </p>
 
