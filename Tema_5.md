@@ -34,7 +34,7 @@ print(set_1 - set_2)
 
 
 <p align="center">
-  <img src="images/1" width="600">
+  <img src="images/1.png" width="600">
   <br>
 </p>
 
@@ -50,7 +50,7 @@ print(a)
 
 
 <p align="center">
-  <img src="images/2" width="600">
+  <img src="images/2.png" width="600">
   <br>
   </p>
 
@@ -63,7 +63,7 @@ for i in range(1, 9):
 print(a)
 
 <p align="center">
-  <img src="images/2(2)" width="600">
+  <img src="images/2(2).png" width="600">
   <br>
   </p>
 
@@ -80,7 +80,7 @@ print(replace([1, 2, 3, 4, 5, 6, 7, 8, 9]))
 
 
 <p align="center">
-  <img src="images/3" width="600">
+  <img src="images/3.png" width="600">
   <br>
   
 </p>
@@ -93,7 +93,7 @@ a = [21, 34, 56, 32, 75, 843, 23456, 27, 243, 23]
 print(a[2:6])
 
 <p align="center">
-  <img src="images/4" width="600">
+  <img src="images/4.png" width="600">
   <br>
   
 </p>
@@ -111,7 +111,7 @@ print(useless([-25.8, 86, 12.5, -56, 73.2, 0, 43, -91.5,65.9, -7]))
 
 
 <p align="center">
-  <img src="images/5" width="600">
+  <img src="images/5.png" width="600">
   <br>
   </p>
 
@@ -127,7 +127,7 @@ print('Василий - ', vasiliy)
 
 
 <p align="center">
-  <img src="images/6" width="600">
+  <img src="images/6.png" width="600">
   <br>
   
 </p>
@@ -144,7 +144,7 @@ print('отсортированный список без наименьшего
 
 
 <p align="center">
-  <img src="images/7" width="600">
+  <img src="images/7.png" width="600">
   <br>
   <em>Рис. 7: Импорт функции из внешнего файла</em>
 </p>
@@ -167,7 +167,7 @@ if __name__ == '__main__':
 
 
 <p align="center">
-  <img src="images/8" width="600">
+  <img src="images/8.png" width="600">
   <br>
   
 </p>
@@ -195,7 +195,7 @@ if __name__ == '__main__':
 
 
 <p align="center">
-  <img src="images/9" width="600">
+  <img src="images/9.png" width="600">
   <br>
   
 </p>
@@ -210,7 +210,7 @@ print(my_list[::-1])
 
 
 <p align="center">
-  <img src="images/10" width="600">
+  <img src="images/10.png" width="600">
   <br>
   
 </p>
@@ -248,7 +248,7 @@ if __name__ == "__main__":
 
 
 <p align="center">
-  <img src="images/11" width="600">
+  <img src="images/11.png" width="600">
   <br>
   </p>
 
@@ -273,7 +273,7 @@ if __name__ == "__main__":
 
 
 <p align="center">
-  <img src="images/12" width="600">
+  <img src="images/12.png" width="600">
   <br>
   
 </p>
@@ -313,7 +313,7 @@ print("Площадь второго треугольника:", area2)
 
 
 <p align="center">
-  <img src="images/13" width="600">
+  <img src="images/13.png" width="600">
   <br>
   
 </p>
@@ -350,7 +350,7 @@ print("Обновленный список 3:", updated_list3)
 
 
 <p align="center">
-  <img src="images/14" width="600">
+  <img src="images/14.png" width="600">
   <br>
   
 </p>
@@ -389,7 +389,7 @@ print("Множество 3:", result_3)
 
 
 <p align="center">
-  <img src="images/15" width="600">
+  <img src="images/15.png" width="600">
   <br>
   
 </p>
