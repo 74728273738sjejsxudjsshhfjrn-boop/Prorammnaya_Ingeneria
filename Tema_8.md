@@ -126,7 +126,7 @@ class Shape:
         raise NotImplementedError("Метод area должен быть переопределен в подклассе")
 
 
- # Класс Rectangle наследует базовый класс Shape
+ Класс Rectangle наследует базовый класс Shape
 class Rectangle(Shape):
     # Конструктор класса, принимающий ширину и высоту
     def __init__(self, width, height):
@@ -138,7 +138,7 @@ class Rectangle(Shape):
         return self.width * self.height  # Площадь прямоугольника = ширина * высота
 
 
- # Класс Circle наследует базовый класс Shape
+ Класс Circle наследует базовый класс Shape
 class Circle(Shape):
     # Конструктор класса, принимающий радиус
     def __init__(self, radius):
@@ -149,13 +149,13 @@ class Circle(Shape):
         return math.pi * (self.radius ** 2)  # Площадь круга = π * радиус^2
 
 
- # Создаем массив с фигурами, добавляем туда объекты Rectangle и Circle
+ Создаем массив с фигурами, добавляем туда объекты Rectangle и Circle
 shapes = [
     Rectangle(4, 5),  # Прямоугольник с шириной 4 и высотой 5
     Circle(3)  # Круг с радиусом 3
 ]
 
-# Выводим площади всех фигур из массива
+ Выводим площади всех фигур из массива
 for shape in shapes:
     print(f"Площадь фигуры: {shape.area()}")
 
